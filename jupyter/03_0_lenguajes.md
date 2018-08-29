@@ -23,17 +23,18 @@ Asimismo está el licenciamiento de los programas para que el usuario sea capaz 
 Esto requiere un sistema operativo y un núcleo o core para su funcionamiento.
 
 ## [Gnu](http://www.gnu.org) (ñu) 
-<center><img src="http://www.gnu.org/graphics/heckert_gnu.transp.small.png" width=10%></center>
+<p align="center"><img src="http://www.gnu.org/graphics/heckert_gnu.transp.small.png" width=10%></p>
+
 Es un sistema operativo que no tiene costo y permite que el usuario tenga el control de lo que se instala en su computadora. 
-## Linux
-<center><img src="http://histinf.blogs.upv.es/files/2011/12/21.png" width = 10%></center>
+## [Linux](https://www.linux.org)
+<p align="center"><img src="http://histinf.blogs.upv.es/files/2011/12/21.png" width = 10%></p>
 
 Es el núcleo o kernel general que utiliza sintaxis similar a Unix en las computadoras personales y como un movimiento en contra del monopolio de Windows.
-<center><img src="http://histinf.blogs.upv.es/files/2011/12/23.png" width = 10%></center>
+<p align="center"><img src="http://histinf.blogs.upv.es/files/2011/12/23.png" width = 10%></p>
 
 
-## Gnu/Linux 
-<center><img src="http://www.gnu.org/graphics/gnu-and-penguin-color-300x276.jpg" width = 30%></center>
+## [Gnu/Linux](http://www.gnu.org/distros/free-distros.html)
+<p align="center"><img src="http://www.gnu.org/graphics/gnu-and-penguin-color-300x276.jpg" width = 30%></p>
 Es el sistema más utilizado para las computadoras personales de uso personal con software libre. En la mayoría de las ocasiones es conocido solo como **Linux**
 
 
@@ -112,21 +113,22 @@ es una terminal(shell) que permite una actividad interactiva que agrega ciertas 
 El proyecto Jupyter es derivado del Ipython y es una proyecto libre de lucro y de código abierto. Está considerado como de soporte para el cómputo científico interactivo para todos los lenguajes de programación. Se dice que Jupyter siempre será un software 100% de código abierto. Se implementó a partir del lenguaje [Julia](https://julialang.org) para navegar en la red, [Python](https://www.python.org) y [R](https://cran.r-project.org).
 
 ### [Bitácora electrónica Jypyter](https://jupyter-notebook.readthedocs.io/en/stable/)
-<center><img src="https://jupyter.org/assets/jupyterpreview.png" width="30%"><center>
+<p align="center"><img src="https://jupyter.org/assets/jupyterpreview.png" width="30%"></p>
 es una aplicación que se ejecuta en el navegador de la red (web) y que permite hacer un seguimiento de los comandos utilizados. El lenguaje por omisión suele ser Python 3, por lo que en este curso es el lenguaje por omisión. Inicialmente se utilizaban núcleos (kernels) de Python y R, pero en la actualidad existe ya núcleos para otros lenguajes
 
 ### [Anaconda](https://www.anaconda.com)
-Es una distribución de Python
-
-
+<p align="center"><img src="https://www.anaconda.com/wp-content/themes/anaconda/images/logo-dark.png" width=25%></p>
+Es una plataforma de distribución de Python y R. Dentro de Anaconda está Anaconda Cloud 
+<p align="center"><img src="https://binstar-static-prod.s3.amazonaws.com/latest/img/AnacondaCloud_logo_green.png" width=30%></p>
+que es una plataforma para que los científicos compartan su trabajo y datos. En esta plataforma se comparten programas en diferentes lenguajes que pueden ser "invocados" dentro de Jupyter.
 
 ### [Biopython](https://biopython.org)
-<img src="https://biopython.org/assets/images/biopython_logo_white.png" width="30%">
+<p align="center"><img src="https://biopython.org/assets/images/biopython_logo_white.png" width="25%"></p>
 Es un juego de herramientas gratuitas para realizar el cómputo con datos biológicos, está escrito en Python por un grupo internacional de desarrolladores.
 
 
 # 3. R
-<img src="https://cran.r-project.org/Rlogo.svg" width = 15%>
+<p align="center"><img src="https://cran.r-project.org/Rlogo.svg" width = 15%></p>
 Es un lenguaje de programación enfocado principalmente a cómputo estadístico y gráfico que es soportado por la [*R Foundation for Statistical Computing*](https://cran.r-project.org/doc/FAQ/R-FAQ.html#What-is-R_003f). Se ha desarrollado para ejecutarse en sistemas compatibles con Unix, Windows y Mac(iOS).
 Es un paquete que se rige por las características de programas de código abierto (Gnu).
 
@@ -135,15 +137,19 @@ Una de sus características primordiales es su ejecución en línea de comandos.
 ### Derivaciones de *R*
 
 ### [Bioconductor](http://www.bioconductor.org)
-<img src="http://www.bioconductor.org/images/logo_bioconductor.gif" width="25%">
+<p align="center"><img src="http://www.bioconductor.org/images/logo_bioconductor.gif" width="25%"></p>
 Es un proyecto de programación de gratuito y de código y fuentes abiertos, para el análisis de datos genómicos. Se basa principalmente en lenguaje R y, muy poco, en otros lenguajes de programación.
 
 
 # 4. Instalación de programas
 
 Cada uno de los programas arriba indicados se puede instalar de manera independiente en las computadoras personales.
-1. [linux]()
-2. [python]()
-2.1 [biopython](https://biopython.org)
+1. [linux](https://www.linux.org/pages/download/)
+2. [python](https://www.python.org/downloads/)
+
+    2.1 [biopython](https://biopython.org)
 3. [R](https://cran.r-project.org)
-3.1 [RStudio]()
+
+    3.1 [RStudio](https://www.rstudio.com/products/rstudio/download/)
+La mayoría de estos lugares ofrecen tutoriales o instrucciones básicas para la instalación de los diferentes programas.
+
