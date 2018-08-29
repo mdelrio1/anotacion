@@ -23,17 +23,17 @@ Asimismo está el licenciamiento de los programas para que el usuario sea capaz 
 Esto requiere un sistema operativo y un núcleo o core para su funcionamiento.
 
 ## [Gnu](http://www.gnu.org) (ñu) 
-<img src="http://www.gnu.org/graphics/heckert_gnu.transp.small.png" width=10%>
+<center><img src="http://www.gnu.org/graphics/heckert_gnu.transp.small.png" width=10%></center>
 Es un sistema operativo que no tiene costo y permite que el usuario tenga el control de lo que se instala en su computadora. 
 ## Linux
-<img src="http://histinf.blogs.upv.es/files/2011/12/21.png" width = 10%>
+<center><img src="http://histinf.blogs.upv.es/files/2011/12/21.png" width = 10%></center>
 
 Es el núcleo o kernel general que utiliza sintaxis similar a Unix en las computadoras personales y como un movimiento en contra del monopolio de Windows.
-<img src="http://histinf.blogs.upv.es/files/2011/12/23.png" width = 10%>
+<center><img src="http://histinf.blogs.upv.es/files/2011/12/23.png" width = 10%></center>
 
 
 ## Gnu/Linux 
-<img src="http://www.gnu.org/graphics/gnu-and-penguin-color-300x276.jpg" width = 30%>
+<center><img src="http://www.gnu.org/graphics/gnu-and-penguin-color-300x276.jpg" width = 30%></center>
 Es el sistema más utilizado para las computadoras personales de uso personal con software libre. En la mayoría de las ocasiones es conocido solo como **Linux**
 
 
@@ -112,7 +112,7 @@ es una terminal(shell) que permite una actividad interactiva que agrega ciertas 
 El proyecto Jupyter es derivado del Ipython y es una proyecto libre de lucro y de código abierto. Está considerado como de soporte para el cómputo científico interactivo para todos los lenguajes de programación. Se dice que Jupyter siempre será un software 100% de código abierto. Se implementó a partir del lenguaje [Julia](https://julialang.org) para navegar en la red, [Python](https://www.python.org) y [R](https://cran.r-project.org).
 
 ### [Bitácora electrónica Jypyter](https://jupyter-notebook.readthedocs.io/en/stable/)
-<img src="https://jupyter.org/assets/jupyterpreview.png" width="30%">
+<center><img src="https://jupyter.org/assets/jupyterpreview.png" width="30%"><center>
 es una aplicación que se ejecuta en el navegador de la red (web) y que permite hacer un seguimiento de los comandos utilizados. El lenguaje por omisión suele ser Python 3, por lo que en este curso es el lenguaje por omisión. Inicialmente se utilizaban núcleos (kernels) de Python y R, pero en la actualidad existe ya núcleos para otros lenguajes
 
 ### [Anaconda](https://www.anaconda.com)
