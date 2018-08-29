@@ -104,11 +104,11 @@ Su historia se remota a fines de los 80s y principios de los [90s](https://es.wi
 
 Muchos personas han desarrollado diferetes formas de hacer más fácil el uso de python. Por ejemplo: 
 ### [IPython](https://es.wikipedia.org/wiki/IPython) 
-![](https://ipython.org/_static/IPy_header.png)
+<p align="center"><img src="https://ipython.org/_static/IPy_header.png" width=20%></p>
 
 es una terminal(shell) que permite una actividad interactiva que agrega ciertas  funcionalidades al modo interactivo incluido con Python. Estas funcionalidades son, entre otras: resaltado de líneas y errores mediante colores, una sintaxis adicional para la terminal, autocompletado mediante tabulador de variables, módulos y atributos; entre otras funcionalidades. Es un componente del paquete SciPy, el cual ha sido desarrollado para apoyo a aspectos científicos.
 ### [Jupyter](https://jupyter.org/about)
-![](https://jupyter.org/assets/nav_logo.svg)
+<p align="center"><img src="https://jupyter.org/assets/nav_logo.svg" width=20%></p>
 
 El proyecto Jupyter es derivado del Ipython y es una proyecto libre de lucro y de código abierto. Está considerado como de soporte para el cómputo científico interactivo para todos los lenguajes de programación. Se dice que Jupyter siempre será un software 100% de código abierto. Se implementó a partir del lenguaje [Julia](https://julialang.org) para navegar en la red, [Python](https://www.python.org) y [R](https://cran.r-project.org).
 
@@ -144,12 +144,14 @@ Es un proyecto de programación de gratuito y de código y fuentes abiertos, par
 # 4. Instalación de programas
 
 Cada uno de los programas arriba indicados se puede instalar de manera independiente en las computadoras personales.
-1. [linux](https://www.linux.org/pages/download/)
-2. [python](https://www.python.org/downloads/)
+1. [Linux](https://www.linux.org/pages/download/)
+2. [Python](https://www.python.org/downloads/)
 
-    2.1 [biopython](https://biopython.org)
+ 2.1 [Biopython](https://biopython.org)
 3. [R](https://cran.r-project.org)
 
-    3.1 [RStudio](https://www.rstudio.com/products/rstudio/download/)
+ 3.1 [RStudio](https://www.rstudio.com/products/rstudio/download/)
 La mayoría de estos lugares ofrecen tutoriales o instrucciones básicas para la instalación de los diferentes programas.
 
+
+### Sin embargo, se recomienda instalar [Anaconda](https://www.anaconda.com), ya que con esta plataforma se podrán instalar Python, Biopython, R, RStudio y otros programas que se utilizarán a lo largo del curso
