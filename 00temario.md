@@ -2,7 +2,7 @@
 # <p align="center">Temario</p>
 # Secuenciación masiva: anotación de genes nucleares y genomas mitocondriales.
 
-## <p align="right">*UAM Iztapalapa* </p>
+# <p align="center">*UAM Iztapalapa* </p>
 
 ## <p align="right"> Dr. Miguel Angel del Río Portilla </p>
 ## <p align="right"> M. en C. Eduardo Zúñiga León </p> 
