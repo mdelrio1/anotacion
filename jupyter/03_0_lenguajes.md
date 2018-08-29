@@ -132,7 +132,9 @@ Es un juego de herramientas gratuitas para realizar el cómputo con datos bioló
 Es un lenguaje de programación enfocado principalmente a cómputo estadístico y gráfico que es soportado por la [*R Foundation for Statistical Computing*](https://cran.r-project.org/doc/FAQ/R-FAQ.html#What-is-R_003f). Se ha desarrollado para ejecutarse en sistemas compatibles con Unix, Windows y Mac(iOS).
 Es un paquete que se rige por las características de programas de código abierto (Gnu).
 
-Una de sus características primordiales es su ejecución en línea de comandos. Sin embargo existen ambientes desarrollo integrales (integrated development environment, o IDE)) como [RStudio](https://github.com/rstudio/rstudio) <img src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" width = 10%>que permite una interface gráfica con todas las herramientas para trabajar con R en un solo lugar (consola, fuentes, gráficas, área de trabajo, ayuda e historial). Además permite observar la edición de los comandos sobresaltada, ejecutar directamente desde el editor, entre otras características.
+Una de sus características primordiales es su ejecución en línea de comandos. Sin embargo existen ambientes desarrollo integrales (integrated development environment, o IDE)) como [RStudio](https://github.com/rstudio/rstudio) 
+<img src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" width = 5%>
+que permite una interface gráfica con todas las herramientas para trabajar con R en un solo lugar (consola, fuentes, gráficas, área de trabajo, ayuda e historial). Además permite observar la edición de los comandos sobresaltada, ejecutar directamente desde el editor, entre otras características.
 
 ### Derivaciones de *R*
 
