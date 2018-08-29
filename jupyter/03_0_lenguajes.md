@@ -133,7 +133,7 @@ Es un lenguaje de programación enfocado principalmente a cómputo estadístico 
 Es un paquete que se rige por las características de programas de código abierto (Gnu).
 
 Una de sus características primordiales es su ejecución en línea de comandos. Sin embargo existen ambientes desarrollo integrales (integrated development environment, o IDE)) como [RStudio](https://github.com/rstudio/rstudio) 
-<img src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" width = 5%>
+<p align="center"><img src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" width = 5%></p>
 que permite una interface gráfica con todas las herramientas para trabajar con R en un solo lugar (consola, fuentes, gráficas, área de trabajo, ayuda e historial). Además permite observar la edición de los comandos sobresaltada, ejecutar directamente desde el editor, entre otras características.
 
 ### Derivaciones de *R*
