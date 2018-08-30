@@ -57,15 +57,14 @@
 3. Estadística descriptiva y graficado de datos de las secuencias
 4. Creación de archivos con formato fasta y GenBank
 5. Ejercicios con secuencias y datos tabulares
-6. Identificación de secuencias mitocondriales
-7. Optimización de procedimientos
-8. Adecuación de la presentación de la bitácora
+6. Optimización de procedimientos
+7. Adecuación de la presentación de la bitácora
 
 
 ## VII Secuenciación masiva
 1. Calidad de las secuencias
 2. Ensamblaje
-
+3. Identificación de secuencias mitocondriales
 
 ## VIII. Anotación mediante Blast
 1. Instalación
