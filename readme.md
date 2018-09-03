@@ -1,3 +1,4 @@
+<p align="center"><img src="http://www.uam.mx/encabezado_75.png" width=70%></p>
 
 # Material del curso
 
@@ -5,7 +6,6 @@
 ## <p align="center">*UAM Iztapalapa* </p>
 
 
-<p align="center"><img src="http://www.uam.mx/encabezado_75.png" width=10%></p>
 ## <p align="right"> Impartido por:</p>
 ##  <p align="right"> Dr. Miguel Angel del Río Portilla 
 ##  <p align="right"> M. en C. Eduardo Zúñiga León 
