@@ -1,4 +1,5 @@
 <p align="center"><img src="http://www.uam.mx/encabezado_75.png"></p>
+<p align="center"><http://www.izt.uam.mx/wp-content/uploads/2017/11/LogoWEB-1.png"></p>
 
 # Material del curso
 
