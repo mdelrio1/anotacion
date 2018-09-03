@@ -1,4 +1,4 @@
-<p align="center"><img src="http://www.uam.mx/encabezado_75.png" width=70%></p>
+<p align="center"><img src="http://www.uam.mx/encabezado_75.png"></p>
 
 # Material del curso
 
