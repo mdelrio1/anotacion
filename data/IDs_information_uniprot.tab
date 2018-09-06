@@ -1,0 +1,16 @@
+Entry	Protein names	Gene names	Organism	Organism ID	yourlist:M20180906A7434721E10EE6586998A056CCD0537EAB5349H
+C6FG12	Protein NLRC5	nlrc5	Ictalurus punctatus (Channel catfish) (Silurus punctatus)	7998	C6FG12
+O00370	LINE-1 retrotransposable element ORF2 protein (ORF2p) [Includes: Reverse transcriptase (EC 2.7.7.49); Endonuclease (EC 3.1.21.-)]		Homo sapiens (Human)	9606	O00370
+P03934	Transposable element Tc1 transposase	tc1a tca T07D3.8	Caenorhabditis elegans	6239	P03934
+P08548	LINE-1 reverse transcriptase homolog (EC 2.7.7.49)		Nycticebus coucang (Slow loris)	9470	P08548
+P11369	LINE-1 retrotransposable element ORF2 protein (ORF2p) (Long interspersed element-1) (L1) (Retrovirus-related Pol polyprotein LINE-1) [Includes: Reverse transcriptase (EC 2.7.7.49); Endonuclease (EC 3.1.21.-)]	Pol Gm17492	Mus musculus (Mouse)	10090	P11369
+P16423	Retrovirus-related Pol polyprotein from type-2 retrotransposable element R2DM (Retrovirus-related Pol polyprotein from type II retrotransposable element R2DM) [Includes: Protease (EC 3.4.23.-); Reverse transcriptase (EC 2.7.7.49); Endonuclease]	pol	Drosophila melanogaster (Fruit fly)	7227	P16423
+P35072	Transposable element Tcb1 transposase (Transposable element Barney transposase)		Caenorhabditis briggsae	6238	P35072
+P53676	AP-3 complex subunit mu-1 (AP-3 adaptor complex mu3A subunit) (Adaptor-related protein complex 3 subunit mu-1) (Clathrin assembly protein assembly protein complex 3 mu-1 medium chain) (Clathrin coat assembly protein AP47 homolog 1) (Clathrin coat-associated protein AP47 homolog 1) (Golgi adaptor AP-1 47 kDa protein homolog 1) (HA1 47 kDa subunit homolog 1) (Mu-adaptin 3A) (Mu3A-adaptin) (P47A)	Ap3m1	Rattus norvegicus (Rat)	10116	P53676
+Q04202	Transposable element Tcb2 transposase		Caenorhabditis briggsae	6238	Q04202
+Q08603	Geranylgeranyl transferase type-2 subunit beta (EC 2.5.1.60) (Geranylgeranyl transferase type II subunit beta) (GGTase-II-beta) (Rab geranyl-geranyltransferase subunit beta) (Rab GG transferase beta) (Rab GGTase beta) (Rab geranylgeranyltransferase subunit beta) (Type II protein geranyl-geranyltransferase subunit beta)	Rabggtb Ggtb	Rattus norvegicus (Rat)	10116	Q08603
+Q5ZMP7	AP-3 complex subunit mu-1 (AP-3 adaptor complex mu3A subunit) (Adaptor-related protein complex 3 subunit mu-1) (Mu-adaptin 3A) (Mu3A-adaptin)	AP3M1 RCJMB04_1h22	Gallus gallus (Chicken)	9031	Q5ZMP7
+Q86XN8	RNA-binding protein MEX3D (RING finger and KH domain-containing protein 1) (RING finger protein 193) (TINO)	MEX3D KIAA2031 RKHD1 RNF193	Homo sapiens (Human)	9606	Q86XN8
+Q95SX7	Probable RNA-directed DNA polymerase from transposon BS (EC 2.7.7.49) (Reverse transcriptase)	RTase	Drosophila melanogaster (Fruit fly)	7227	Q95SX7
+Q9NBX4	Probable RNA-directed DNA polymerase from transposon X-element (EC 2.7.7.49) (Reverse transcriptase)	X-element\ORF2 ORF2	Drosophila melanogaster (Fruit fly)	7227	Q9NBX4
+Q9TTC1	Gag-Pol polyprotein (Pr125Pol) [Cleaved into: Matrix protein p15 (MA); RNA-binding phosphoprotein p12 (pp12); Capsid protein p30 (CA); Nucleocapsid protein p10-Pol (NC-pol); Protease/Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4) (p87); Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-) (p42)]	pro-pol	Koala retrovirus (KoRV)	394239	Q9TTC1
